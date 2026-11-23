@@ -104,7 +104,7 @@ Linear Regression achieved the best performance among the evaluated models.
 
 ### 2. Total Bill vs. Tip Relationship
 
-![Total Bill vs Tip](images/bill_tip_relationship.png)
+![Total Bill vs Tip](images/bill_tip_relationsship.png)
 
 ### 3. Correlation Matrix
 
