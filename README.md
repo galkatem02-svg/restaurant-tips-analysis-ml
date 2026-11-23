@@ -96,6 +96,31 @@ Linear Regression achieved the best performance among the evaluated models.
 - The dataset does not include factors such as service quality, customer income, or customer satisfaction.
 - Statistical associations do not establish causal relationships.
 - Further analysis, including cross-validation and post-hoc statistical tests, could improve the robustness of the findings.
+## Visualizations
+
+### 1. Bill and Tip Distributions
+
+![Bill and Tip Distributions](images/bill_tip_distribution.png)
+
+### 2. Total Bill vs. Tip Relationship
+
+![Total Bill vs Tip](images/bill_tip_relationship.png)
+
+### 3. Correlation Matrix
+
+![Correlation Matrix](images/num_correlation.png)
+
+### 4. Tip Amount by Table Size
+
+![Tip by Table Size](images/tip_by_table_size.png)
+
+### 5. Actual vs. Predicted Tip Amounts
+
+![Actual vs Predicted](images/actual_predicted.png)
+
+### 6. Feature Importance
+
+![Feature Importance](images/feature_importance.png)
 
 ## Repository Structure
 
